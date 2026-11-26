@@ -1,68 +1,28 @@
-👋 Hello, I'm a Full-Stack Web Developer
-💻 Turning ideas into functional, scalable and user-friendly web applications.
+👨‍💻 Web Developer | Creative Thinker | Professional Bug Negotiator 🐛
 
-I'm a passionate Web Developer with experience building modern websites and web applications using frontend and backend technologies.
+Turning creative ideas into functional, beautiful, and user-friendly digital experiences. 🚀
 
-I enjoy solving real-world problems through technology, developing practical solutions and creating digital experiences that make a difference.
+I enjoy building for the web, solving problems through code, exploring new technologies, and occasionally having heated debates with semicolons. 😄
 
-I'm particularly interested in building applications that combine great user experiences with reliable backend functionality.
+🛠️ What I Do
+🌐 Frontend & Backend Development
+🎨 Responsive Web Design & Development
+⚙️ WordPress & Django Development
+🔌 REST APIs & Database Integration
+🐛 Debugging, Optimization & Problem Solving
+🌱 Currently
 
-🛠️ Tech Stack
+Learning, experimenting, building exciting projects, and pushing my development skills to the next level.
 
-Frontend Development
+💡 My Philosophy
 
-HTML5
-CSS3
-JavaScript
-Responsive Web Design
+"Great software isn't built in a day. It's built one line of code, one bug fix, and one improvement at a time."
 
-Backend Development
+🤝 Let's Connect & Build Something Amazing!
 
-Python
-Django
-REST API Development
+Always open to exciting projects, collaborations, and opportunities to create something meaningful.
 
-Content Management
-
-WordPress
-
-Tools & Technologies
-
-Git & GitHub
-SQL Databases
-API Integration
-Debugging & Testing
-🚀 What I Build
-Full-stack web applications
-Business and corporate websites
-E-commerce platforms
-Online booking and reservation systems
-Database-driven applications
-Responsive and interactive user interfaces
-🎯 My Development Approach
-Writing clean, readable and maintainable code.
-Building responsive applications for different devices.
-Developing practical solutions to real-world challenges.
-Continuously learning and improving my technical skills.
-Collaborating with others to deliver quality software.
-📂 Featured Projects
-
-I'm building and documenting projects that demonstrate my technical abilities and problem-solving skills.
-
-Check out my repositories to explore my work.
-
-🌍 Career Opportunities
-
-I'm open to opportunities in:
-
-Full-Stack Web Development
-Junior Software Engineering
-Frontend Development
-Backend Development
-WordPress Development
-Freelance and Remote Development
-
-Location: Kenya 🇰🇪 | Open to Worldwide Remote Opportunities 🌍
+Code. Create. Innovate. Repeat. 🚀
 
 🤝 Let's Connect
 
